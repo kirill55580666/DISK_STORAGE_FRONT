@@ -1,1 +1,1 @@
-export const API_URL = 'http://diskstorage-kirill55580666.amvera.io/'
+export const API_URL = 'https://diskstorage-kirill55580666.amvera.io/'
