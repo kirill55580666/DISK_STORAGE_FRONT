@@ -1,0 +1,1 @@
+export const API_URL = 'http://diskstorage-kirill55580666.amvera.io/'
